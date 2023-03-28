@@ -1,0 +1,23 @@
+{
+  "name": "platforms2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/serezhay/platforms2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/serezhay/platforms2/issues"
+  },
+  "homepage": "https://github.com/serezhay/platforms2#readme",
+  "dependencies": {
+    "@serezhay/platforms": "^1.0.0"
+  }
+}
